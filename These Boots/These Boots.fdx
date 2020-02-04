@@ -2,26 +2,50 @@
 <FinalDraft DocumentType="Script" Template="No" Version="3">
 
   <Content>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="1" Title="">
+    <Paragraph Number="1" Type="Scene Heading">
+      <SceneProperties Length="5/8" Page="1" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>EXT. A train station platform. Day.</Text>
+      <Text>EXT. A train station platform - Day [9:58]</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>There’s a lone figure on the platform, a small girl with two large cases. </Text>
+      <Text>There’s a lone figure on the platform, a small girl dragging two large cases out from beneath a bench. </Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The girl is ANNA, 6 years old, who is shaking, standing slouched over and without confidence. She’s clutching two train tickets in one hand, glancing between the entrance and the clock.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The clock shows a digital time, </Text>
+      <Text>The clock shows a digital time, 9:58, as well as the next train, which leaves at 10:00.</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="1" Title="">
+    <Paragraph Type="Action">
+      <Text>Anna watches as seconds flick by.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Her grip on the tickets tightens.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns around towards the station entrance and cranes her neck to see if anybody is approaching. Nobody does, and behind her, a behemoth train rolls up to the platform.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns, squares her shoulders, and drags the cases to the nearest carriage door. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The train guard hangs from the next carriage along, whistle in his mouth, and watches as she heaves the baggage onto the train. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She disappears into the carriage, but not before her eyes flicker back toward the station. The high pitched beeping of the closing doors becomes...</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>Cut TO:</Text>
+    </Paragraph>
+    <Paragraph Number="2" Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="1" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>INT. A tiny Apartment. Morning.</Text>
+      <Text>INT. A tiny Apartment - DAY [8:00]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>... The repetitive noise of a phone alarm, buzzing on a bedside table. ‘8:00’ flashing on the screen.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The dingy flat could be anywhere in the world, synonymous with a struggling young family. </Text>
@@ -33,54 +57,149 @@
       <Text>Sunshine through the windows, movement beneath a duvet.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A man’s bare feet swing out, land straight into a pair of old slippers. This is ADAM (20s), a bulldog of a man.</Text>
+      <Text>The alarm stops abruptly as a man’s bare feet swing out, landing straight into a pair of old slippers. This is ADAM (20s), a bulldog of a man.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A woman’s bare feet swing out, straight onto the worn carpet. VICTORIA (20s) looks wrung out and grey.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Adam’s hand grabs a work uniform from the wardrobe.</Text>
+      <Text>From someone’s perspective looking through the bedroom doorway, Adam and Victoria sit back to back. Then Victoria stands and walks out of frame.</Text>
+    </Paragraph>
+    <Paragraph Number="3" Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. AnNA'S ROOM - Day [8:05]</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Victoria leans into another room. Her daughter ANNA (6) sleeps in a second-hand children’s bed. Everything about her and her bedroom is threadbare. Victoria pauses to stroke her hair.</Text>
+      <Text>There’s an empty square of threadbare carpet visible from this person’s perspective, slightly obscured by a duvet. A pair of adult feet suddenly disrupt the view.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Toast pops up from the toaster. Adam is waiting for it, buttery knife in hand.</Text>
+      <Text>The watcher shrinks back and the duvet turns the world dark for a moment, before it’s whipped back and brightness rains in.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Victoria turns on the bathroom taps and grabs a flannel. The water makes her shiver as she cups it to her face, neck, arms... </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">she</Text>
-      <Text> lingers over a mark there. Layers of bruising, new over old. She lets her shirt sleeve hide it.</Text>
+      <Text>For just a moment, the brightness is...</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="1" Title="">
+    <Paragraph Number="4" Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. A TRAIN CARRIAGE - Day [10:00]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>... Greenery whipping past a train window, small hands, a jumper...</Text>
+    </Paragraph>
+    <Paragraph Number="5" Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ANNA'S ROOM - Day [8:05]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Victoria looks down at her daughter, curled against the mattress. Anna blinks up at her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VicTORIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Couldn’t sleep?</Text>
+    </Paragraph>
+    <Paragraph Number="6" Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">INT. THE BATHROOM - DAY [8:10]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Victoria stands in front of the bathroom taps and grabs a flannel. She gives it a short, sharp burst from the hot tap, steam rising just for a split second.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Then she leans down to Anna, beside her, and wipes her face, neck, arms.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna is watching her mother, frail and thin. As Victoria moves, every so often, Anna catches a glimpse of markings on her skin. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She watches as her mother wets the flannel again, this time from the cold tap, no rising steam.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Victoria shivers as she wipes her own face clean, then her shoulders, arms. Anna gets a clear view of layers of bruising, new over old. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Victoria catches her daughter watching and lets her shirt sleeve hide the blotches.</Text>
+    </Paragraph>
+    <Paragraph Number="7" Type="Scene Heading">
+      <SceneProperties Length="7/8" Page="3" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ADAM"></CharacterArcBeat>
           <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>INT. The Kitchen.</Text>
+      <Text>INT. The Kitchen - Day [8:30]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Victoria and Anna sit at the dining table, each with a bowl of cornflakes. Victoria is in a work uniform and Anna in a school uniform. Adam walks in, freshly washed, wet hair.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He drops the dirty plate in the sink and grabs his keys, kissing Anna’s head on his way to the door.</Text>
+      <Text>He drops the dirty plate in the sink and grabs his keys on his way to the door. Victoria watches him leaving.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Adam</Text>
+      <Text>VICTORIA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I might be late home tonight.</Text>
+      <Text>They’re keeping you for training tonight, right?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Victoria doesn’t look up.</Text>
+      <Text>Adam turns to look at her. She doesn’t quite make eye contact.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADAM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ViCtoria</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>No problem.</Text>
+      <Text>Nothing, no. Just wondering when to expect you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AdAM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well don’t. Training runs late. Won’t be back until morning.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At this, Anna gives a little exhale that turns both her parents’ heads. Adam stoops down to her height.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADAM (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s only once a year, Anna. I’ll be home all the other 364 days, ‘kay?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She nods and he kisses her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADAM (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And your job’s to keep an eye on Mummy for me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna looks to Victoria. </Text>
+    </Paragraph>
+    <Paragraph Number="8" Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. The Hallway - DaY [8:35]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Adam makes his way into the hall, passing the neat row of shoes.</Text>
@@ -98,7 +217,7 @@
       <Text>She turns to her daughter. </Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Victoria (CONT’D)</Text>
+      <Text>Victoria</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Are you nearly ready?</Text>
@@ -106,11 +225,11 @@
     <Paragraph Type="Action">
       <Text>The clock on the wall ticks on.</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="2" Title="">
+    <Paragraph Number="9" Type="Scene Heading">
+      <SceneProperties Length="6/8" Page="4" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>Int. The apartment.</Text>
+      <Text>Int. The apartment - DAY [9:00]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The same clock shows about half an hour to have passed.</Text>
@@ -148,19 +267,20 @@
     <Paragraph Type="Action">
       <Text>Adam stiffens for a moment before-</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3 6/8" Page="3" Title="">
+    <Paragraph Number="10" Type="Scene Heading">
+      <SceneProperties Length="5/8" Page="5" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ADAM"></CharacterArcBeat>
           <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>INT. ThE KITCHEN.</Text>
+      <Text>INT. ThE KITCHEN - DAY [9:05]</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text> - </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">bursting</Text>
-      <Text> into the kitchen. He startles Victoria, who’s taking a box of cornflakes out of the kitchen cupboard.</Text>
+      <Text> - Bursting into the kitchen. He startles Victoria, who’s taking a box of cornflakes out of the kitchen cupboard.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She leaves the door slightly ajar, but shifts her weight until Adam’s shocked expression is just barely visible from within.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ADAM</Text>
@@ -184,13 +304,31 @@
       <Text>Where’s Anna?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Victoria closes the cupboard and grabs a bowl, filling it with the cornflakes. Her sleeves ride up.</Text>
+      <Text>Victoria opens another cupboard and grabs a bowl, filling it with the cornflakes. Her sleeves ride up.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She goes to walk past Adam, to sit at the dining table, but he grabs her by the arm. His fingers match up with the bruise exactly.</Text>
+      <Text>She goes to walk past Adam, to sit at the dining table, but he grabs her by the arm. His fingers match up with the bruise exactly. The gap in the cupboard door seems to frame this.</Text>
+    </Paragraph>
+    <Paragraph Number="11" Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="5" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. A TRAIN CARRIAGE - Day [10:00]</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He grips her tightly, bars her way. She looks him in the eye.</Text>
+      <Text>Two small hands gripping, holding tightly...</Text>
+    </Paragraph>
+    <Paragraph Number="12" Type="Scene Heading">
+      <SceneProperties Length="2 6/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ADAM"></CharacterArcBeat>
+          <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE KITCHEN - Day [9:07]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Adam grips Victoria tightly, bars her way. She looks him in the eye.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VICTORIA</Text>
@@ -244,7 +382,7 @@
       <Text>VICTORIA (CONT’D)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Are you ill?</Text>
+      <Text>So you came home sick?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ADAM</Text>
@@ -262,10 +400,10 @@
       <Text>ADAM (CONT’D)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I wanted to surprise you, and Anna. I want to take you on holiday.</Text>
+      <Text>I wanted to surprise you, and Anna. A surprise holiday.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He sets the passport in the centre of the table.</Text>
+      <Text>He sets the passport in the centre of the table, almost like a wager.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Adam and Victoria both stare at it.</Text>
@@ -301,7 +439,7 @@
       <Text>ADAM</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Do I need a reason? To treat my beautiful wife, or my baby girl? You’ve being working so much recently, and Anna, she’s being trying so hard in school. I know she’d love to see the sea.</Text>
+      <Text>Do I need a reason? To treat my beautiful wife, or my baby girl? You’ve being working so much recently, and Anna, she’s being trying so hard in school. I know she’d love to see the ocean.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>He says that last sentence louder and glances towards the bedrooms.</Text>
@@ -310,7 +448,7 @@
       <Text>Adam (CONT’D)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>But like I said, I need those passports.</Text>
+      <Text>But I can’t sort a holiday without any passports.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Adam stands, and Victoria is about to too, but again Adam lays hands on her, forcing her back into the seat.</Text>
@@ -388,7 +526,7 @@
       <Text>ADAM</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Yes. Don’t worry- I’ll always be able to find her.</Text>
+      <Text>Yeah. Don’t worry- I’ll always be able to find her.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Victoria doesn’t answer this. She’s looking at the photograph of her daughter.</Text>
@@ -396,8 +534,26 @@
     <Paragraph Type="Action">
       <Text>She takes it from Adam and runs her finger over Anna’s face.</Text>
     </Paragraph>
+    <Paragraph Number="13" Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. A TRAIN CARRIAGE - DAY [10:00]</Text>
+    </Paragraph>
     <Paragraph Type="Action">
-      <Text>Then she stands, putting as much space between herself and Adam as possible as she leans round him to put the photo back up on the fridge door.</Text>
+      <Text>Anna’s face, with tears in her eyes, flickering with shadow and light as foliage flashes past the train windows.</Text>
+    </Paragraph>
+    <Paragraph Number="14" Type="Scene Heading">
+      <SceneProperties Length="6/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ADAM"></CharacterArcBeat>
+          <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. THE KITCHEN - Day [9:25]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Victoria stands, putting as much space between herself and Adam as possible as she leans round him to put the photo back up on the fridge door.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VICTORIA</Text>
@@ -429,36 +585,30 @@
     <Paragraph Type="Action">
       <Text>He pulls out his phone and begins </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">dialling</Text>
-      <Text>.</Text>
+      <Text>. Victoria takes his hand.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Victoria</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>No!</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(Beat)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Don’t disturb them, I’m sure she’s having plenty of fun with her friends.</Text>
+      <Text>Don’t disturb them. You’ll embarrass her in front of her friends.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>As Victoria makes excuses-</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="6" Title="">
+    <Paragraph Number="15" Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="9" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Int. Inside the kitchen cupboard.</Text>
+      <Text>Int. Inside the kitchen cupboard - Day [9:30]</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>- Behind the closed cupboard door she’d taken the box of cornflakes from, Anna is hunched where her mother hid her minutes before. The two missing passports are in her hands.</Text>
+      <Text>- Behind the closed cupboard door Victoria had taken the cornflakes from, Anna is hunched over, still. The two missing passports are in her hands.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She’s so still and quiet, we can tell this isn’t the first time she’s hidden from her father.</Text>
+      <Text>She’s so stiff and quiet, we can tell this isn’t the first time she’s hidden from her father.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VICTORIA</Text>
@@ -466,14 +616,14 @@
     <Paragraph Type="Dialogue">
       <Text>In fact, I think I saw Anna and her friends playing around with the passports yesterday- help me check her room.</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7/8" Page="7" Title="">
+    <Paragraph Number="16" Type="Scene Heading">
+      <SceneProperties Length="7/8" Page="9" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ADAM"></CharacterArcBeat>
           <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>INT. THE KITCHEN.</Text>
+      <Text>INT. THE KITCHEN - Day [9:30]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Victoria heads to her daughter’s bedroom and, hesitantly, Adam begins to follow. As he gets to the kitchen door, something catches his eye. He pauses.</Text>
@@ -544,23 +694,23 @@
     <Paragraph Type="Action">
       <Text>He’s watching Victoria’s reaction.</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="8" Title="">
+    <Paragraph Number="17" Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="10" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>InT. INSIDE THE KITCHEN CUPBOARD.</Text>
+      <Text>InT. INSIDE THE KITCHEN CUPBOARD - Day [9:35]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The cupboard door swings open and the light is blinding. Adam and Victoria’s faces come into view.</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="8" Title="">
+    <Paragraph Number="18" Type="Scene Heading">
+      <SceneProperties Length="5/8" Page="10" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ADAM"></CharacterArcBeat>
           <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>INT. THE KITCHEN.</Text>
+      <Text>INT. THE KITCHEN - DAY [9:35]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The cupboard is empty. Anna is gone.</Text>
@@ -584,7 +734,7 @@
       <Text>Adam</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Oh, don’t act the innocent. The passports are missing, your stuff has disappeared. I’m not stupid!</Text>
+      <Text>Oh, don’t act the innocent. The passports are missing, your stuff’s gone. I’m not thick!</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VICTORIA</Text>
@@ -599,7 +749,7 @@
       <Text>ADAM</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>No? You should be careful which email address you use.</Text>
+      <Text>No? You should be more careful which email address you use.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>There’s a moment of silence. </Text>
@@ -607,14 +757,14 @@
     <Paragraph Type="Action">
       <Text>A flash of pink can be seen inside the still open cupboard.</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="8" Title="">
+    <Paragraph Number="19" Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="11" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ADAM"></CharacterArcBeat>
           <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>INt. INSIDE THE OTHER KITCHEN CUPBOARD.</Text>
+      <Text>INt. INSIDE THE OTHER KITCHEN CUPBOARD - DAY [9:40]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Anna is watching her parents. She leans a bit and the wall of the cupboard wobbles slightly. It’s still loose from where she crept through.</Text>
@@ -629,7 +779,7 @@
       <Text>ADAM</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Of course I do! You can’t be trusted. You think you can book one-way tickets out of the country and I won’t know? That I’d let you take my daughter anywhere?</Text>
+      <Text>Of course I did! You can’t be trusted. You think you can book one-way tickets out of the country and I won’t know? That I’d let you take my daughter anywhere?</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text>(LOUDER)</Text>
@@ -637,17 +787,16 @@
     <Paragraph Type="Dialogue">
       <Text>Anna! I know you’re here sweetheart! It’s time to come out!</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 3/8" Page="9" Title="">
+    <Paragraph Number="20" Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="11" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ADAM"></CharacterArcBeat>
-          <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>INT. THE KITCHEN.</Text>
+      <Text>INT. THE KITCHEN - Day [9:40]</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Victoria and Adam maintain eye contact as they listen out for Anna. The house stays silent.</Text>
+      <Text>Victoria and Adam maintain eye contact as they listen out for Anna. The apartment stays silent.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Adam roars in frustration.</Text>
@@ -658,6 +807,9 @@
     <Paragraph Type="Action">
       <Text>He heads for the bedrooms. Victoria listens to the crashing and smashing as Adam turns the apartment upside down.</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She’s frozen, terrified.</Text>
+    </Paragraph>
     <Paragraph Type="Character">
       <Text>ADAM (O.S.)</Text>
     </Paragraph>
@@ -665,22 +817,30 @@
       <Text>Anna! Daddy’s getting angry now!</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Victoria drops to her knees beside the open cupboard.</Text>
+      <Text>The wall of the open cupboard shifts and Anna slides out, running to her mother and grabbing her hands.</Text>
+    </Paragraph>
+    <Paragraph Number="21" Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="12" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. A TRAIN CARRIAGE - Day [10:00]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna’s hands holding on to her pink jumper, on the train seat beside her.</Text>
+    </Paragraph>
+    <Paragraph Number="22" Type="Scene Heading">
+      <SceneProperties Length="1" Page="12" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="VICTORIA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ThE KITCHEN - DAY [9:45]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Victoria looks down at her daughter and snaps out of her fear.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VICTORIA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Anna?</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The wall of the cupboard shifts ever so slightly.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Victoria pulls at it and it immediately comes away, revealing Anna.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>VICTORIA (CONT’D)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Can you run to the train station, do you remember where?</Text>
@@ -689,10 +849,10 @@
       <Text>Anna nods.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Victoria pulls her daughter out of the cupboard, takes the passports out of her hands and stuffs them into the little girl’s pockets.</Text>
+      <Text>Victoria takes a deep breath, takes the passports out of her daughter’s hands and stuffs them into the little girl’s pockets.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Quietly, slowly, they walk to the front door and open it.</Text>
+      <Text>Quietly, quickly, Anna leads her mother to the front door and Victoria opens it.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VICTORIA (CONT’D)</Text>
@@ -728,7 +888,7 @@
       <Text>It sounds like Adam is inside.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Their family photos line the walls. They’re all together in every one.</Text>
+      <Text>Their family photos line the walls. They’re all together in every one. The frames rattle with every crash and bang.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Victoria takes a deep breath.</Text>
@@ -742,23 +902,23 @@
     <Paragraph Type="Action">
       <Text>Victoria doesn’t stop to see if it works. </Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="10" Title="">
+    <Paragraph Number="23" Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="13" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>Int. Anna’s Room.</Text>
+      <Text>Int. The Hallway - Day [9:55]</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She whips into her daughter’s room, dragging a bulging hold-all from beneath the bed.</Text>
+      <Text>She crashes past the clock, which now reads 9:55.</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="10" Title="">
+    <Paragraph Number="24" Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="13" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>EXT. The Street.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>And then she runs, leaving the front door open behind her.</Text>
+      <Text>And then she’s running for her life, leaving the front door swinging open behind her.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>As she runs, the sound of Adam’s rage slowly fades into the distance.</Text>
@@ -766,17 +926,32 @@
     <Paragraph Type="Action">
       <Text>Victoria is free.</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="10" Title="">
+    <Paragraph Number="25" Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="13" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>INT. A train carriage.</Text>
+      <Text>INT. A train carriage - Day [9:59]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The train is still in the station, but the last whistle is blowing.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Anna sits alone at the window seat.</Text>
+      <Text>Anna sits alone at the window seat. She’s watching the platform clock.</Text>
+    </Paragraph>
+    <Paragraph Number="26" Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. A TRAIN STATION PLATFORM - DAY [9:59]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The platform clock flicks from 9:59 to 10:00.</Text>
+    </Paragraph>
+    <Paragraph Number="27" Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. A TRAIN CARRIAGE - Day [10:00]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The world beyond the window begins to slide as it pulls out of the station.</Text>
@@ -788,19 +963,28 @@
       <Text>It stays closed. </Text>
     </Paragraph>
     <Paragraph Type="Action">
+      <Text>Anna takes off her pink jumper and drops it onto the seat beside herself, balling her hands in the material.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
       <Text>The carriage seems big, empty.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Greenery is whipping past the windows, shadows flashing past.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna starts to cry.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Then the carriage door opens and Victoria is there, holding her daughter, stroking her hair.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text></Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text></Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text></Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
   </Content>
 
@@ -816,14 +1000,13 @@
     <WatermarkImage Height="144"></WatermarkImage>
   </Watermarking>
 
-  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
     <Header>
       <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
-        <DynamicLabel Type="Last Revised"/>
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">THESE BOOTS        SECOND DRAFT        SCENE </Text>
+        <DynamicLabel Type="Scene #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">         PAGE </Text>
         <DynamicLabel Type="Page #"/>
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
         <Tabstops>
           <Tabstop Position="4.50" Type="Center"/>
           <Tabstop Position="7.25" Type="Right"/>
@@ -849,7 +1032,7 @@
 
   <WindowState Height="709" Left="0" Mode="Normal" Top="68" Width="800"/>
 
-  <TextState Scaling="100" Selection="7101,7101" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -1118,6 +1301,10 @@
       <Location>A TRAIN CARRIAGE.</Location>
       <Location>ANNA'S ROOM.</Location>
       <Location>A TRAIN STATION PLATFORM. DAY.</Location>
+      <Location>A TRAIN STATION PLATFORM</Location>
+      <Location>A TINY APARTMENT</Location>
+      <Location>ANNA'S ROOM</Location>
+      <Location>A TRAIN CARRIAGE</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -1129,6 +1316,10 @@
       <TimeOfDay>MOMENTS LATER</TimeOfDay>
       <TimeOfDay>CONTINUOUS</TimeOfDay>
       <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>DAY [9:59]</TimeOfDay>
+      <TimeOfDay>DAY [8:00]</TimeOfDay>
+      <TimeOfDay>DAY [8:05]</TimeOfDay>
+      <TimeOfDay>DAY [10:00]</TimeOfDay>
     </TimesOfDay>
     <Transitions>
       <Transition>CUT TO:</Transition>
