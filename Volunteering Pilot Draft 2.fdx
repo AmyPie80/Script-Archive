@@ -1,0 +1,3018 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="3">
+
+  <Content>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="JOYCE"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>BLACK.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>There’s a smart rapping noise, knocking on a door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Joyce</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you know the password, petal?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tess</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What password? Look, can’t I just-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JOYCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No password, no entry I’m afraid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Heather</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Joyce, this is a Guide House, not flaming MI6! C’mere!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A lock clicks and...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="JOYCE"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. The guide house door. Afternoon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The front door cracks open, revealing a sliver of TESS, (15) severe with neat and tidy, if worn, clothes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Peering out at her are HEATHER, (14), a scowling goth, and Joyce, (68) who is somewhere between a eccentric art teacher and a human goldfish.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who’re you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m doing my volunteering? For my Silver </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">DofE</Text>
+      <Text>? Tess?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather lets the door go lax.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, just what we need. Another one.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She walks off down the corridor, but stops to look back at Tess, hovering on the threshold.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HeATHER (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Were you born in a barn? Get inside!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess takes a few uncertain steps, and cringes when Joyce puts a hand on her shoulder. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Joyce</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry sausage. Can’t be too careful today, what with the inspection.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Joyce dips her head out of the door and glances around suspiciously, before closing it behind her and wobbling off up the corridor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There’s an inspection?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Joyce</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yes. Couldn’t be avoided after the hot jam incident. But they can’t shut us down if we don’t let them in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tess</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hot jam incident?! Shut you down?! </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANGELA"></CharacterArcBeat>
+          <CharacterArcBeat Name="JOYCE"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. The Guide House Kitchen. Afternoon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The kitchen is clean and bright, but outdated and crumbling. There are tiles missing from the walls, and the cupboard doors are wonky. Little girls in brown uniforms run in and out, squealing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess sits at the table, and Joyce is pouring four cups of tea from a pot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She brings two cups over to the table and hands one to Tess, before plopping into a seat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Joyce</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what made you choose the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pudsbury</Text>
+      <Text> Girl Guides?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look, I was late to the sign up and you were last on the list- so you can’t get shut down, you’re my only option.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JOYCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t worry yourself, we’ll be fine! Nothing gets past us!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess takes a sip of her tea and immediately dribbles it back into the mug. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is just milk and hot water.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess takes her drink and tips it down the drain. She starts looking in cupboards.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JOYCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, now! I knew there was something missing!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Joyce and Tess look at each other for a long moment. Maintaining eye contact, Joyce questioningly reaches for the sugar bowl on the worktop.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TeSS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nope.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>There is the flush of a toilet somewhere outside and after a few moments, ANGELA, (50s) wearing an apron with her name on it, bustles in holding a large wooden ‘tragedy’ mask. Squealing children swarm around her waist, like she’s the eye of a snotty, noisy storm.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Joyce, please, stop putting your freaky art in the loos. Just because it’s the most convenient place to have the crap scared out of me, doesn’t mean it’s what I want.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela balances the mask on its side on the windowsill and stands back to look at it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess and Angela both stare for a minute from the twisted grimace of the mask to its jolly creator. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Joyce is smiling into space. The rustling of trees and birdsong can be heard, as though it’s the sound of her mind.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela picks up her mug of tea sans tea from the side and absentmindedly sips it. She registers that it’s not quite right and turns to Joyce.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You forgot the sugar again dear.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She continues to sip the not-tea. There’s a massive crash somewhere else in the house. Only Tess flinches.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’d better start before they get restless. Tess, run and let Heather know, would you? She’s in the next room.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, sure. Shall I round the kids up, too?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t you worry about that. Joyce and I are about to get started.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Neither of them moves.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. The Guide House Activity Room. Afternoon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess dodges past running children into a large, bare room, with walls of cupboards and stacked tables and chairs. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>By one cupboard is an explosion of children’s costumes and broken plastic, and sitting in the centre of that is Heather.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TeSS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Have you never read a health and safety manual? You shouldn’t be lifting things without supervision.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Piss off.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather gets up and picks up costumes, crushing them back into the space in the cupboard that their box once slotted into.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It can’t be just you. Surely there must be some other volunteers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HeaTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There were.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Right. Not ominous sounding at all. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Silence. Tess walks over and starts to help Heather clean up the costumes. Heather avoids her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, I’m here now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HeATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Listen </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">DofE</Text>
+      <Text>, this unit might be a box ticking exercise for the likes of you, but they’re my family. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(BEAT)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can’t afford to have you messing this inspection up. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So we just let Angela do the talking while we do craft with the girls, easy peasy.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 3/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANGELA"></CharacterArcBeat>
+          <CharacterArcBeat Name="ISLA"></CharacterArcBeat>
+          <CharacterArcBeat Name="ROBYN"></CharacterArcBeat>
+          <CharacterArcBeat Name="SAFFRON"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE ACTIVITY ROOM. 20 minutes later.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess looks shell shocked.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She’s covered in strips of crepe paper, sitting on a tiny chair at a tiny table. She’s head and shoulders above all the children around her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The table is covered with hacked up lifestyle magazines. Each child has a sheet of paper, which they’re all frantically smearing with glue.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the next table, Angela rises, catching Tess’ eye.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shouldn’t have had that tea, I’m busting for the loo again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She raises her voice to catch the children’s attention.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’ve got until I get back to create your dream bedrooms, girls! I want some lovely explanations to go with them, too!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela leaves the room. There’s a beat before every child starts talking simultaneously.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At Tess’ table two of the girls, ISLA and ROBYN are peering at the hands of the girl between them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ISLA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Saffron, those are for snack!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ROBYN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m telling miss.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SAFFRON is going red. Her uniform is washed out and badly sized.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAFFRON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Were not! These are from my house!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess glances at Saffron. Biscuits are very obviously sticking out of her pockets.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The table’s snack plate is empty, but for some crumbs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Put the biscuits back and stop being so greedy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the same moment, Saffron’s stomach rumbles loudly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAFFRON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry miss.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Saffron smears her snotty nose across her hand and starts pulling biscuits out. Tess pauses. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You keep them. I’ll go and refill our snack plate.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess gets up from the table and the muttering between the three children becomes indistinguishable. She heads into...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE HALLWAY. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>...the hallway, which is strangely quiet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Angela? Brown Owl?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>No response. Only the murmur of children in the room behind her. Tess takes a few steps towards the toilets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Angela? Are you still in the toilet?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Still carrying the plate, she walks towards the toilet door.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE TOILET. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Every cubicle door is open but one. It doesn’t seem to be locked, and is slightly ajar.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess stretches out a hand to knock gently on the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Angela?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She pushes the door open.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The snack plate hits the floor with a clatter. Biscuit crumbs go flying.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela, pants around her ankles, is limp on the toilet, a hand over her heart and her face twisted in an expression of fright. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER (O.C.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well shit.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="7/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE TOILET. five minutes later.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather stares at Angela’s lifeless body. She and Tess are hanging over either side of the cubicle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you think killed her?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess looks across at Heather disbelievingly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you really not know?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela’s hand still lies over her heart.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>On the bathroom door frame hangs a massive wooden ‘comedy’ mask. It’s terrifying.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh. Well, one of us should ring an ambulance-</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Out in the hallway, the doorbell rings. Heather and Tess share a look. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HeATHER (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The inspection.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We could just ignore it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Automatic fail, no matter what Joyce says.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll try and get rid of them. You... </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">tidy</Text>
+      <Text> her up a bit.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess gestures to the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">pantless</Text>
+      <Text> body, then drops behind the cubicle wall.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MRS ROSEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. THE GUIDE HOUSE DOOR. AFTERNOON.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The paint is peeling off the front door. A ‘Guide House’ sign hangs on by a thread.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A well dressed woman (50s) taps her foot on the path and scribbles in her notebook. This is MRS ROSEN. She’s an absolute cow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She’s holding a red pen, which she pushes back into her pocket beside an amber pen and a green one. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Three... two... one...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She pops her notebook in her handbag, turns around and begins to walk to the end of the drive. Just as she reaches the gate...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>...the front door swings open. Tess stands in the doorway, distracted. Mrs Rosen comes to stand in front of her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s customary to welcome guests.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess turns to face her. She still isn’t really paying attention.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, sorry, we’ve had a bit of a muddle. Thought the inspection was next week, so...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess goes to close the door, but Mrs Rosen jams it with her foot. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, that shouldn’t matter. I’m here now, and excited to meet your-</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Girl Guiding sign falls off the door with a clang.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>-</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">your</Text>
+      <Text> unit.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess squirms.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ve been dying to meet you.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 2/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE TOILET. moments later.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why did you let her in? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You said we’d fail if I didn’t!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess is standing at the cubicle door watching Heather struggle to get Angels’s pants over her hips. Each time she </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">hoiks</Text>
+      <Text> them up, Angela’s face bulges.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well... you know what’s... </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">a</Text>
+      <Text> bigger fail than ignoring the door? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather plops the body back down onto the toilet seat and begins trying to do up Angela’s fly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Brown owl dead in the toilet.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess sinks down onto the floor beside Angela.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, there goes my silver award. And my trip to the palace. And your ‘family’.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Heather</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Unless...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Unless what?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather looks at Tess with pleading eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Heather</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It makes no difference to her when we call the ambulance. It’s what she would have wanted really.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HeATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just half an hour.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tess</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m not hiding a body with you!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Heather</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look, telling the truth right now won’t help anybody. I love this place. You’ve got nowhere else to volunteer. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(BEAT)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You want that award, don’t you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They both pause. There’s murmuring coming from the hallway.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <DualDialogue>
+        <Paragraph Type="Character">
+          <Text>TESS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>Joyce.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+          <Text>HEATHER (CONT'D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>Joyce.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As one, they unceremoniously drop Angela’s body and follow the noise.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 6/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="JOYCE"></CharacterArcBeat>
+          <CharacterArcBeat Name="MRS ROSEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE HALLWAY. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Joyce is standing in the doorway of the activity room, inadvertently blocking Mrs Rosen from entering.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>-</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">and</Text>
+      <Text> where’s your Brown Owl?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JoyCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, well, she’s just-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HeATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Popped out. She’s just popped out. We were out of...</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(BEAT)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather turns her pleading eyes back to Tess.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Through the door, Tess can see Saffron happily chatting with Isla and Robyn. Their faces light up as they open the first aid kit and happily begin covering each other in bandages.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tess</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>...Plasters. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess nods at Heather, who gives her a little smile. Okay. They’re doing this.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen begins to scribble in her notebook with the red pen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s awfully serious... an incomplete first aid kit... I shall have to take this into account you see...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JOYCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, I love the sea!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everybody stares at Joyce for a moment.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Joyce has a blissful smile on her face and we can hear waves crashing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Brown Owl or no Brown Owl, it’s high time we began the inspection. I’ll just use the bathroom first...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She takes a few steps towards the bathroom. And the corpse inside it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ah! Ms Inspector, Mrs Rosen, you don’t want to be using those.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And why not?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess steps in-between Mrs Rosen and the toilets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because those are the children’s toilets! Tiny things! We’ve adult toilets upstairs, let me show you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Joyce looks confused and opens her mouth to correct Tess, but as she does, Tess walks past her and shoves her into the activity room, closing the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess leads Mrs Rosen down the corridor. As she goes, she glances over her shoulder at Heather and mouthes ‘move her’.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather disappears back into the toilets.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess and Mrs Rosen disappear up the stairs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The corridor is empty for a few moments. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Then Heather’s head appears in the toilet doorway, checking the coast is clear. There’s movement upstairs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know what I was thinking Mrs Rosen, there have never been any toilets upstairs!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Abruptly, Heather drags Angela’s body out into the corridor and towards the kitchen. Just before she gets there, Mrs Rosen and Tess appear on the stairs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather pulls Angela’s body around the corner before they spot her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, the toilets downstairs aren’t tiny at all, in fact they’re normal toilet size!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess and Mrs Rosen descend the staircase. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen is busy tutting and scribbling in her notebook as they pass Heather, but Tess spots her and frantically gestures to the kitchen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen walks into the toilets and Tess tries to follow her, but has the door shut in her face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’ll be the last time I wee in the cupboard, ha </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">ha</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The joke is met with awkward silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the other end of the corridor, Heather is dragging Angela into the kitchen, shutting the door behind them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t, you know.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(BEAT)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wee in cupboards.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The toilet door swings open and Mrs Rosen sweeps past Tess, notebook in hand. She’s headed straight for the kitchen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess watches after her in panic.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The kitchen? Are you sure? There’s some good stuff this way you know!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In a few strides, Mrs Rosen is at the kitchen door.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns to smirk at Tess.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you think I don’t know when somebody is hiding something from me?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maintaining Tess’ eye contact, Mrs Rosen swings open the kitchen door.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 4/8" Page="12" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MRS ROSEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ThE GUIDE HOUSE KITCHEN. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The kitchen looks just as it did earlier. Heather is leaning against a cupboard, waiting for the kettle to boil.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, flipping heck, she’s caught us, hasn’t she?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen and Tess both stare at her in confusion. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She shakes the milk carton in her hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look, when we found out one of the kids was lactose intolerant, we just thought it would be easier to give everybody coconut milk.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Coconut milk?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Saves a mix up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen gives Heather a funny look, but wanders into the kitchen anyway and starts to look around, running her fingers along the worktops. Heather shifts slightly and a floppy hand slips out of the cupboard she’d been leaning on.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Seeing the hand through the open doorway, Tess marches into the kitchen and stands in front of it. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen is struggling to open a storage jar and Tess sees an opportunity.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you need a </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">hand </Text>
+      <Text>with that?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>On the word hand, she glares at Heather, who isn’t paying attention. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s very kind, but I’ll manage.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you sure I couldn’t lend a </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">hand?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>This time on the word hand, she steps on Heather’s foot and draws her attention to the hand sticking out of the cupboard. They panic briefly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen opens the jar with a ‘pop’ and looks inside. The lid goes straight back on and she marks something in her notebook.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now, I just need to check your cupboards.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather and Tess both stare at Mrs Rosen, still oblivious to the floppy hand behind them. Tess zeroes in on Mrs Rosen’s RSPB bag.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She sees an opportunity through the kitchen window.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh wow, is that a little woodpecker? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen is peering out of the window beside her almost instantly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just there, see? By that tree.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Which tree?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess glances over her shoulder at Heather who jolts into action, sliding Angela’s entire body out of the tiny cupboard under the sink.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m afraid you must be mistaken.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen is about to turn around but Tess grips her and points out of the window.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, look! There it is again! Isn’t it adorable? So small!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They both turn back to the window, and come face to face with HIKER TOM on the campsite behind the Guide House, getting dressed. He can clearly hear them, and looks affronted, ducking behind his tent.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Through the kitchen doorway, Heather’s eyes are on Mrs Rosen. She quickly slides Angela’s body down the corridor, back towards the toilets. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Before she can reach them, Mrs Rosen begins to turn around. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather is forced to duck into the activity room. A squeal goes up from inside, but Mrs Rosen only glances back at it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, well, campers and their woodpeckers aside, I really must insist on checking your cupboards. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m so sorry- go right ahead.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess steps back to give Mrs Rosen access to the cupboards, but is very conscious of the continued squealing coming from the activity room.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>One hand in her pocket, Mrs Rosen is leaning into the cupboard Angela’s body was stuffed in, moments before. She leans out to look at Tess.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hadn’t you better see to that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course. I won’t be long.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess leaves the kitchen. Mrs Rosen watches her go.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 5/8" Page="15" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALI"></CharacterArcBeat>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="ISLA"></CharacterArcBeat>
+          <CharacterArcBeat Name="ROBYN"></CharacterArcBeat>
+          <CharacterArcBeat Name="SAFFRON"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. The GUIDE HOUSE ACTIVITY ROOM. MOments later.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The door to the hallway is closed. Noise, crying, gibbering can be heard. Tess crashes through the door, locks it and leans against it, eyes closed, panicked.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She opens her eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The activity room is in chaos. The children have their faces smeared with warpaint. Most of them are running around wildly, some are crying. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Joyce sits in one corner, snoring softly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Saffron runs up to Tess, pulling a wild face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAFFRON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Brown Owl’s dead! Dead!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She drops to the floor dramatically, covering her head with her arms. After a few moments, her head resurfaces and she looks hopefully at Tess.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAFFRON (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can I take some biscuits home to help with the sadness?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can have a bag of crisps if you tell me where Heather is.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Saffron considers this for a moment before pointing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess follows the direction of Saffron’s finger towards one of the large wall cupboards, the door of which is trembling slightly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She strides over to it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Heather- it’s just me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess opens the cupboard door and a tightly packed Heather and Angela’s body fall out of it. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The body hits the floor with a thud.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The noise attracts the attention of all the children, who promptly begin screaming again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess presses her fingers to her temples, but has no patience for the noice.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TeSS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stop!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Every child falls silent and looks to Tess, who has her back to them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I just need some peace and quiet!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Silence. Tess turns to face the children.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Every child is sitting cross legged with their fingers on their lips.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who likes coming here?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A sea of hands go up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who would be sad if they couldn’t come any more?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>All the hands stay in the air.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay. If that lady in the kitchen finds out that Brown Owl died, you won’t be able to come any more.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>There’s a pause and Tess looks around at all the children. Their hands stay up. Heather leans in behind her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The hands mean they have a question.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh right.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She points to a child. Robyn.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ROBYN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If Brown Owl’s dead, are we still doing the bake sale?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No idea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She points to another child- ALI</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ALI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can I tell my Mum?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>After the kitchen lady leaves, sure.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She points to another child, Isla.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ISLA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can I go to the toilet?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Before Tess can answer, somebody tries to open the door from the hallway... </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">and</Text>
+      <Text> finds it locked.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Give us minute!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather and Tess turn to each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sick of dragging the body around, you do it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where am I supposed to take a dead body?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hide her out back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The back door is just behind them, leading out into the bins and the garden. Tess tries the door. It won’t budge. She and Heather both look at the open window beside it...</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>JUMP CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1" Page="18" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MRS ROSEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. The GUIDE HOUSE ACTIVITY ROOM. Moments LATER.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess is on the outside of the window, Heather is on the inside. Between them, halfway through the window, is Angela’s body. They are struggling to co-ordinate and get it outside.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can you not just flaming well pull when I push?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How am I supposed to know? I can’t see you!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather stops pushing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Right. I know what we’ll do.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns to look at the children.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who remembers our campfire songs?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Several hands go up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HeATHER (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, with me- </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">gin-gan-goolie</Text>
+      <Text> goolie goolie goolie </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">wotcher</Text>
+      <Text>, gin gan goo, gin gan goo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Several of the children join in with Heather’s singing. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather and Tess move Angela on ‘goo’. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Keep going!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The banging on the door begins again. Joyce sputters in her sleep.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s going on in there?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Erm... The children want to surprise you- not long now!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather starts to sing again, but this time at a whisper. The children match her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>After a few moments, Angela’s midriff comes unstuck from the window frame and she slides through unexpectedly.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="19" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MRS ROSEN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. THE GUIDE HOUSE GARDEN. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess lands on the grass and Angela’s body lands right on top of her, their faces centimeters apart.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess pushes the body off herself and rolls it into the flowerbed under the windowsill.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Through the window, she can hear the children begin singing ‘gin gan </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">goolie’</Text>
+      <Text> again, as loud as they can this time.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 6/8" Page="19" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="ISLA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MRS ROSEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE ACTIVITY ROOM. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The children stand together like a choir as they sing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen stands beside Heather in the doorway, watching them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is your Brown Owl often away for this long?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can’t blame her for being a while at the shops, what with the summer plaster crisis going on.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What on earth is the summer plaster crisis?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You mean you haven’t heard of the plight of the rubber collectors of Indonesia? And here I thought a woman like you would know her charitable causes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, the Indonesian rubber plight? Yes, I think I may have heard about it.. In passing, of course.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Breaking the ranks of singing children, Isla runs up to the adults. Mrs Rosen is looking around the room. Something is off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ISLA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Barn Owl, please, I really need-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where is that other girl?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Through the window, Tess’ head pops up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just collecting some flowers- we’re going to do some flower pressing!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fabulous. I’ve only got the garden left to check- and I obviously need to see the children at play, first.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Everybody into your sixes!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The children are instantly grouped at their craft tables, waiting expectantly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>From one table, Mrs Rosen picks up an old magazine by its corner. It’s not what she’s used to. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Isla, grab Mrs Rosen a chair.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Isla jumps up from her own seat, looking back at it. She moves towards the stacks of chairs, but stops in her tracks when Mrs Rosen sits on her recently vacated chair.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen jumps up again almost immediately, looking back at the seat with disgust.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is that-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ISLA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I couldn’t hold it, I tried my best.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen shrieks and turns to reveal the sodden seat of her pants. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She desperately tries to dry it with the old magazines. Heather dashes around, searching for tissue. Isla begins to cry.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Through the window behind them, Tess is trying to cram the body into a wheelie bin.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2" Page="21" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="HIKER TOM"></CharacterArcBeat>
+          <CharacterArcBeat Name="MRS ROSEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. THE GUIDE HOUSE GARDEN. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The wheelie bin is open and Angela’s feet are sticking out of it. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess is reaching into the bin and trying to move the body around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You won’t be in here long, I swear. I just need something to cover you up with.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess goes searching around the garden. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She spots a flash of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">colour</Text>
+      <Text> in the bushes that divide the garden from the campsite next door.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>When Tess investigates, she finds a pair of men’s underwear. She examines them, still speaking to Angela’s body.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>These are quite small. Some of you might poke out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIKER TOM (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I most certainly will not.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The voice is coming from the bushes. Shaken, Tess leans to look through the gap in the hedge where she found the underwear.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Through the hole, she can see Hiker Tom on the campsite. He’s fresh from the shower, wearing nothing but a towel. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>His hand shoves through the hole in the hedges and grabs his underwear back from Tess. She doesn’t have time to explain, because the noise through the Guide House window is getting louder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Will you just let me take it to the bin?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m quite capable of throwing away my own rubbish.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess scoops up some leaves from the around her feet, dropping them into the wheelie bin and closing the lid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh my goodness, girl, let me be!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen and Heather burst through the back door, Mrs Rosen with a ring of old keys and the sodden magazines in her hands, Heather trying to wrench them off her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather looks around in confusion.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The garden is tidy and Tess is standing innocently between the bins and the flowerbeds.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where did you put her?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where did she put who?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, just the dead bird I found- it’s in the bin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In the bin?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That is where one should put dead animals- you do know that, don’t you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen snatches the magazines away from Heather and marches towards the bins.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Heather was just quite attached to that bird. It was round here a lot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Without looking, Mrs Rosen opens the bin.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela’s face is just visible through the leaves until Mrs Rosen dumps the urine soaked magazines onto it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t you have some children to supervise?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather heads into the activity room, but Tess nervously hangs back in the doorway, her eyes on the bin. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen fishes in her pocket and pulls out a clenched fist, the contents of which she also drops into the bin. She brushes past Tess to get inside. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As soon as she is gone, Tess releases a breath of relief and follows her. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The back door is shut. The garden is silent.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 4/8" Page="23" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="JOYCE"></CharacterArcBeat>
+          <CharacterArcBeat Name="MRS ROSEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE ACTIVITY ROOM. Moments later.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The children are engaged in their scrapbooking. Heather is helping the table closest to where Mrs Rosen and Tess are standing. Joyce is still asleep in a chair beside them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen is scribbling in her notebook with the red pen. Tess is trying to catch a glimpse but the notebook is just out of view. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, in spite of your Brown Owl’s absence, this inspection is concluded.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen pulls a form out of the back of the notebook and unfolds it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sign here, please.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She hands Tess a pen. Tess takes the form.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She begins to read it, but Mrs Rosen is becoming impatient, so she just scribbles on it and hands it back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen takes it and stuffs it back into the notebook. She turns to leave.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You may show me to the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wait! So, we passed?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen pauses. She turns back. She is incredulous.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Passed? You think you passed?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did we?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course you didn’t pass! This is the sorriest excuse for a unit I have ever seen! I was giving you the chance to walk me to the door so you could hand over the keys in private!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>There is a stagnant pause. Heather has stopped concentrating on the glueing down she was doing for a child, so focused on Tess and Mrs Rosen that she is accidentally glueing the child’s hand to their paper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sure there’s no need to take the keys now- you’ve not seen anything that bad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Children wetting themselves! Staff who don’t know where the toilets are! Staff sleeping on the job! Harassing campers, missing Brown Owl, and worst of all, vermin excrement in the filthy kitchen!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the sound of the word ‘filthy’, Joyce jolts awake.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JOYCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That kitchen is so clean you could eat off it!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Joyce scrubs that kitchen every day. You’re not telling me you found rat shit.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="24" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. INSIDE THE KITCHEN CUPBOARD. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BLACK.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The cupboard door is opened from the outside and the empty space is flooded with light. The faces of Tess, Heather and Mrs Rosen peer in from around the outside.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The light from outside illuminates a series of little brown bumps across the bottom of the cupboard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you found some rat shit.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="25" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MRS ROSEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE KITCHEN. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They all straighten up. The kitchen cupboard stays open.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather walks to the kitchen doorway and shouts down the hallway.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There’s definitely poo, Joyce!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>From somewhere else in the house, Joyce can be heard wailing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess is watching Mrs Rosen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can’t we fix this? Go on probation?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look, it’s a health and hygiene violation. Nothing can be done about it, I’m afraid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Right. Just let us get to the end of this group. We’ll hand over the keys.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="25" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>EXT. THE GUIDE HOUSE GARDEN. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The guide house garden is still empty. The bin is closed, where Tess left it. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>From inside the bin comes a massive bang. And then a thud, and another. Angela bursts out of the top, very much alive, and holding something. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela is panting. She’s covered in leaves and urine soaked magazine. She looks at what’s in her hand, and grins.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 1/8" Page="25" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANGELA"></CharacterArcBeat>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MRS ROSEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ThE GUIDE HOUSE HALLWAY. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess and Mrs Rosen are just leaving from the kitchen. Tess pulls Mrs Rosen aside.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did I tell you it’s my first day with this unit?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am aware.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So clearly I’m not responsible for any of this, I’m a good volunteer-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And what would you have me do? I can’t keep a dangerous unit open to please one volunteer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I wasn’t suggesting that at all, no. This place is clearly dead in the water. But I know there’s another unit down the street.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Saint Esther’s Unit already has a wonderful new volunteer. I believe she’s also aiming for her silver Duke of Edinburgh award.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen considers Tess for a moment. She smiles a poisonous smile.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In any case, I truly don’t think someone like you is... </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">right</Text>
+      <Text>, for Saint Esther’s.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess opens her mouth to respond, but her eyes meet something else over Mrs Rosen’s shoulder and she screams.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela, looking worse for wear, is limping up the hallway, holding one arm out in front of her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Behind Tess, the kitchen door opens and Heather leans out. She doesn’t notice Angela.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What all the screaming </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">abo</Text>
+      <Text>-</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather follows Tess’ gaze and sees Angela. She starts screaming too. The two girls hold each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen is utterly confused. She’s turned around to look at Angela, but has no context for what’s going on. She straightens herself up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ah, Angela. You’re back at last.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Grunting, Angela speeds up. She’s aiming herself towards Mrs Rosen, who’s becoming uncertain. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Behind her, Heather and Tess are clinging to each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You disrespected Angela’s corpse and now she’s the undead and it’s all your fault!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My fault?! This was all your idea!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I never asked you to put her in the bin!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I never wanted to volunteer here!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HEATHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We should have killed the brain!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shut up, the both of you!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Both girls fall silent and stare at Angela. She takes a final step forward, pressing her finger into Mrs Rosen’s chest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>As for you, Martha Sue!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She flips over her outstretched hand, and opens it. In her palm is a wrapper for </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Waitrose</Text>
+      <Text> cocoa nibs. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Rat droppings, was it? I’ve been a Girl Guider for forty years and you thought you could trick me with edible turds?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MRS ROSEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I- I don’t know what you’re talking about.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You don’t?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela grabs Mrs Rosen by the wrist and pulls her into the kitchen, Tess and Heather following curiously.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="27" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANGELA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. The guide house KITCHEN. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They watch from the doorway as Angela leads Mrs Rosen into the kitchen and opens the cupboard door. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She gestures for Mrs Rosen to take the seat closest to it. Mrs Rosen sits.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela leans into the cupboard, picks up a ‘rat poo’ and pops it into her mouth. She chews for a few moments.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela leans right into Mrs Rosen’s face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now, if you want to keep your job, I’ll be keeping my guide house open, thanks.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen nods.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Get out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quicker than she’s moved all day, Mrs Rosen is out of the kitchen.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="28" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JOYCE"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE HALLWAY. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess and Heather’s heads pop out of the kitchen doorway to watch after Mrs Rosen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The hallway floor is scattered with the torn up pieces of a sheet of notepaper, covered in red scribbles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mrs Rosen has already cleared the hallway, and is halfway down the garden path. She’s still visible because she’s forgotten to close the front door behind herself.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Joyce appears out of the activity room and watches after Mrs Rosen for a minute before closing the front door.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns to look at Heather and Tess.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JOYCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t know about you two, but I thought she smelled of wee.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Joyce wanders back into the activity room.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="7/8" Page="28" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANGELA"></CharacterArcBeat>
+          <CharacterArcBeat Name="HEATHER"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE KITCHEN. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess and Heather turn back from the doorway. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela is watching them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You thought I was dead, so you put me in the wheelie bin?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HeathER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’d do anything to save the Guide House, Angela.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, you would. This one doesn’t care, as long as she gets her shiny badge and certificate.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela gestures to Tess, who </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">shinks</Text>
+      <Text> a little.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I heard you throwing us under the bus in the corridor, don’t pull the angel act now.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Heather looks between the two women, confused.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look, I need this place to stay open to get my award, you need it to stay open for your... </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">reasons</Text>
+      <Text>. Truce?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess stretches a hand out towards Angela, who takes it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m keeping my eye on you. You’ve got a lot to learn.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Angela drops Tess’ hand and smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now make a brew, my stomach thinks my throat’s been cut.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="29" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANGELA"></CharacterArcBeat>
+          <CharacterArcBeat Name="SAFFRON"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. THE GUIDE HOUSE. CONT.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (O.C.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So the rat poo is just fancy chocolate then?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANGELA (chewing) (o.c.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mm, very fancy chocolate.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>There are a few moments of chewing noises.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (O.C.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ew, not all of it.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="30" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="SAFFRON"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE GUIDE HOUSE HALLWAY. TEN MINUTES LATER.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The children are lined up along the hallway in their coats, watching the very much alive Angela with awe and fear.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Each has a drawing to take with them, and most of the drawings feature Brown Owl’s corpse. Every so often, there is a knock at the door and Angela calls one of them forward to go home.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>One of the last few children in the queue, Saffron approaches Tess.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SAFFRON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I made you a picture. I hope it helps you feel better.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Saffron holds out a battered piece of paper and Tess takes it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The piece of paper is a drawing of a sunset across a hilltop. It’s labeled ‘Peace and </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">qwiet’</Text>
+      <Text> in pencil.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh. Thank you.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>MATCH CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="30" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HIKER TOM"></CharacterArcBeat>
+          <CharacterArcBeat Name="TESS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. The Road Home. Evening.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sun is just setting and the country road looks idyllic. Tess slowly appears above the horizon, appearing to grow larger as she makes progress. She’s holding an open notebook.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The notebook is open to a hand-drawn chart of ‘Hours Volunteered’. She pauses beside some bushes and, with a pen, shades in three little squares.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TESS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Three in one day!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She looks up and finds herself eye to eye with Hiker Tom, who had been urinating behind the bushes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tess’ eyes glance down, but they snap quickly up again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HIKER TOM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stop counting, you sick freak!</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO BLACK.</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Last Revised"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="709" Left="0" Mode="Normal" Top="68" Width="800"/>
+
+  <TextState Scaling="100" Selection="18649,18649" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Volunteering</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Amy Shaw</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">alshaw296@gmail</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">07982144721</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="113,113" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <UnanchoredScriptNotes/>
+
+  <SmartType>
+    <Characters>
+      <Character>Joyce</Character>
+      <Character>Tess</Character>
+      <Character>Heather</Character>
+      <Character>MRS ROSEN</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>BLACK.</Location>
+      <Location>THE GUIDE HOUSE DOOR.</Location>
+      <Location>THE GUIDE HOUSE TOILET. MOMENTS LATER.</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
+    <Revision Color="#000000000000" FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="0">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Joyce"/>
+    <Member Actor="" Character="Tess"/>
+    <Member Actor="" Character="Heather"/>
+    <Member Actor="" Character="MRS ROSEN"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="ALI" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ANGELA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="HEATHER" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="HIKER TOM" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ISLA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="JOYCE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="MRS ROSEN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ROBYN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="SAFFRON" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="TESS" Visible="No"/>
+  </CharacterHighlighting>
+
+  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order"/>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="56" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
+  </DisplayBoards>
+
+</FinalDraft>

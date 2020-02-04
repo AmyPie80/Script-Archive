@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="3">
+
+  <Content>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>EXT. GREAT VICTORIA STREET, Belfast, 2016 - DaY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A sea of screaming faces, CLAIRE’s (38) amongst them, contorted with rage.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. Ferry check in, 2019 - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A small suitcase rolls down a clean corridor.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>EXT. GREAT VICTORIA STREET, 2016.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The swell of protesters hold ‘LIFE’ banners and wave leaflets at the women, flanked by escorts, who exit the Marie Stopes Clinic on the other side the street. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Claire pulls a bottle of holy water from her bag.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. FERRY CHECK IN.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The CHECK-IN CLERK can hear the footsteps down the hall. She only looks up when they fall silent.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Claire, a few years older, slides her ticket across the counter.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CLAIRE"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. GREAT VICTORIA STREET, 2016.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>One escorted woman, ALLY (late 20s) looks particularly nervous. Claire throws the bottle of water over her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ally is soaked. The crowd jeers. She begins to cry, but she keeps walking.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Claire spits after her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CLAIRE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Murderer!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Some anti-abortion leaflets spill out of her pockets and fall to the wet pavement...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>EXT. Great Victoria Street, 2019 - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>...where they stay.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The protesters are gone, but their shouting still echoes through the empty street. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Marie Stopes Clinic is boarded up.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CHECK-IN CLERK"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ferry Check in.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The check-in clerk escorts Claire towards a door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CHECK-In CLERK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Walk-on passengers wait in here. Next bus to the ferry’ll be here in 20 minutes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The clerk opens the door and ushers Claire in.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 4/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name=""></CharacterArcBeat>
+          <CharacterArcBeat Name="AGATA"></CharacterArcBeat>
+          <CharacterArcBeat Name="CLAIRE"></CharacterArcBeat>
+          <CharacterArcBeat Name="ZOE"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. The Waiting Room. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The room has rows of waiting room chairs, a coffee table of magazines and a television in one corner. In the other corner, a small counter selling food and drink, with no attendant. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Claire takes out her purse and approaches the counter. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The waiting room is almost entirely occupied by women. ZOE (20s) is surrounded by bags, drinking water and watching the tv. AGATA, (30s) is talking on her mobile in Polish. MARK, (late teens) the only man, is staring at his hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Claire turns to Zoe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CLAIRE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How’d you buy that water?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ZOE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The cashier- she went to the toilet, I think.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Claire stuffs her purse away and sits down. Zoe holds out the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ZOE (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Want some of mine?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Claire swipes a tabloid from the coffee table and ignores her. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She tries to focus on the newspaper, but keeps glancing at Agata, who’s still talking. She sighs pointedly. Agata keeps talking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AGATA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nie mo</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">ze</Text>
+      <Text>sz klamac ze jestes chory, bo cie szef zlapie.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>(SUBTITLE)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If your boss catches you lying to get off work, you’re finished.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A man’s voice mumbles on the other end of the phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AGATA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nie musisz mnie odebrac, wezme busa do domu.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text> (SUBTITLE)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You don’t need to pick me up, I’ll catch the bus home.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Claire glares at Agata and hushes her. Agata tries to avoid eye contact.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AGATA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Powinnam</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">isc</Text>
+      <Text>, bede w </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">porzadku</Text>
+      <Text>. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kocham</Text>
+      <Text> Ci-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text> (SUBTITLE)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I should go, I’ll be fine. I love y-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CLAIRE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you not understand me? Shut up!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Agata drops the phone to her lap.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ZOE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t talk to her like that!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AGATA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t worry about it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Zoe and Agata share a smile. Agata’s eyes drop to her phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She’s googling directions. An advert for maternity wear pops up and her hand freezes. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BARRY"></CharacterArcBeat>
+          <CharacterArcBeat Name="FELIKS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. A Staff room - Day.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FELIKS (30s) puts his phone on the table in front of him. His screensaver is of him and Agata.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BARRY (30s) bustles in with a bag of baby things, which he holds out to Feliks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BARRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Brought some of Lucy’s old baby grows for you and Agata.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FELIKS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thanks, but I can’t take them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BARRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course you can- is everything alright big fella?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="FELIKS"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THE WAITING ROOM.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Agata dismisses the advert, choosing ‘this advert is not relevant to me’. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FELIKS (O.C.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Our baby wouldn’t survive birth- and Agata probably wouldn’t, either.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The advert disappears, and a tear lands on the screen where it was. She’s searching directions to a family planning clinic in England.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The channels switch on the tv behind her, the volume gets louder.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Claire stops the channel hopping at Good Morning Britain. She watches Piers Morgan and fiddles with her crucifix necklace.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Last Revised"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords>
+      <Word>Nie</Word>
+      <Word>bo</Word>
+      <Word>busa</Word>
+      <Word>chory</Word>
+      <Word>cie</Word>
+      <Word>domu</Word>
+      <Word>jestes</Word>
+      <Word>klamac</Word>
+      <Word>mnie</Word>
+      <Word>mozesz</Word>
+      <Word>musisz</Word>
+      <Word>odebrac</Word>
+      <Word>szef</Word>
+      <Word>wezme</Word>
+      <Word>zlapie</Word>
+    </IgnoredWords>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="709" Left="0" Mode="Normal" Top="68" Width="800"/>
+
+  <TextState Scaling="100" Selection="3697,3697" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Your Journey Here</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A Shaw</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">alshaw296@gmail</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.com</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="104,104" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <UnanchoredScriptNotes/>
+
+  <SmartType>
+    <Characters>
+      <Character>Da</Character>
+      <Character>Mammy</Character>
+      <Character>ALLY</Character>
+      <Character>Sue</Character>
+      <Character>CLAIRE</Character>
+      <Character>CHECK-In CLERK</Character>
+      <Character>ZOE</Character>
+      <Character>AGATA</Character>
+      <Character>BARRY</Character>
+      <Character>FELIKS</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>A BELFAST BUS</Location>
+      <Location>THE TAYLOR'S HOUSE</Location>
+      <Location>GREAT VICTORIA STREET, BELFAST, 2016</Location>
+      <Location>FERRY CHECK IN, 2019.</Location>
+      <Location>FERRY CHECK IN.</Location>
+      <Location>GREAT VICTORIA STREET, 2019</Location>
+      <Location>THE WAITING ROOM.</Location>
+      <Location>A STAFF ROOM</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>DAY.</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
+    <Revision Color="#000000000000" FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="0">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="Man 1" Character="Da"/>
+    <Member Actor="Man 1" Character="Mammy"/>
+    <Member Actor="Man 1" Character="ALLY"/>
+    <Member Actor="Man 1" Character="Sue"/>
+    <Member Actor="" Character="CLAIRE"/>
+    <Member Actor="" Character="CHECK-In CLERK"/>
+    <Member Actor="" Character="ZOE"/>
+    <Member Actor="" Character="AGATA"/>
+    <Member Actor="" Character="BARRY"/>
+    <Member Actor="" Character="FELIKS"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="AGATA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="BARRY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="CHECK-IN CLERK" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="CLAIRE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="FELIKS" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ZOE" Visible="No"/>
+  </CharacterHighlighting>
+
+  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order"/>
+
+  <AltCollection>
+    <Alt Id="5">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </Alt>
+    <Alt Id="6">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </Alt>
+    <Alt Id="7">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </Alt>
+    <Alt Id="8">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </Alt>
+    <Alt Id="9">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </Alt>
+    <Alt Id="10">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </Alt>
+    <Alt Id="11">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </Alt>
+    <Alt Id="12">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </Alt>
+  </AltCollection>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="56" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
+    <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+  </DisplayBoards>
+
+</FinalDraft>
